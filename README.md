@@ -29,8 +29,8 @@ The synthetic dataset is available here : [Dataset](synthetic_traffic_accident_d
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone (https://github.com/Siddhubn/SCT_DS_4/tree/main)
+   cd SCT_DS_4
    ```
 
 2. Ensure the synthetic dataset [Dataset](synthetic_traffic_accident_data.csv) is in the project directory.

@@ -62,12 +62,12 @@ The synthetic dataset is available here : [Dataset](synthetic_traffic_accident_d
 - **Cleaned Dataset**: `cleaned_synthetic_traffic_accident_data.csv`
 
 ## Screenshots:
-![Weather_Conditions_during_accident](Snapshots/Weather_Conditions_during_accident.png)
-![Road_Conditions_during_accident](Snapshots/Road_Conditions_during_accident.png)
-![cluster_map](Snapshots/cluster_map.jpg)
-![accident_hotspots](Snapshots/accident_hotspots.jpg)
-![accident_frequency1](Snapshots/accident_frequency1.png)
-![accident_frequency](Snapshots/accident_frequency.png)
+![Weather_Conditions_during_accident](snapshots/Weather_Conditions_during_accident.png)
+![Road_Conditions_during_accident](snapshots/Road_Conditions_during_accident.png)
+![cluster_map](snapshots/cluster_map.jpg)
+![accident_hotspots](snapshots/accident_hotspots.jpg)
+![accident_frequency1](snapshots/accident_frequency1.png)
+![accident_frequency](snapshots/accident_frequency.png)
 
 
 ## Example Results
